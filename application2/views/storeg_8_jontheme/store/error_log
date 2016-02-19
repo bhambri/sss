@@ -1,0 +1,147 @@
+[21-Apr-2015 18:27:00 America/Denver] PHP Fatal error:  Using $this when not in object context in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/corder_detail.php on line 3
+[21-Apr-2015 19:44:25 America/Denver] PHP Fatal error:  Using $this when not in object context in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/order_detail.php on line 3
+[21-Apr-2015 19:59:25 America/Denver] PHP Fatal error:  Using $this when not in object context in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/cuser_wishlist.php on line 2
+[21-Apr-2015 21:38:28 America/Denver] PHP Fatal error:  Call to undefined function base_url() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/clogin.php on line 6
+[21-Apr-2015 22:23:28 America/Denver] PHP Fatal error:  Call to undefined function base_url() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/user_claccount.php on line 7
+[21-Apr-2015 23:23:28 America/Denver] PHP Fatal error:  Using $this when not in object context in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/user_order.php on line 3
+[22-Apr-2015 03:41:07 America/Denver] PHP Fatal error:  Call to undefined function store_fallback_path() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/about.php on line 20
+[22-Apr-2015 04:26:07 America/Denver] PHP Fatal error:  Using $this when not in object context in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/clientproducts.php on line 3
+[22-Apr-2015 12:20:52 America/Denver] PHP Fatal error:  Using $this when not in object context in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/product_detail.php on line 4
+[22-Apr-2015 14:17:16 America/Denver] PHP Fatal error:  Call to undefined function base_url() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/consultantcart_view.php on line 5
+[22-Apr-2015 14:47:17 America/Denver] PHP Fatal error:  Using $this when not in object context in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/consultantcart_checkout.php on line 2
+[22-Apr-2015 17:08:32 America/Denver] PHP Notice:  Undefined variable: page_title in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/page.php on line 4
+[22-Apr-2015 17:08:32 America/Denver] PHP Notice:  Undefined variable: breadcrumbdata in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/page.php on line 10
+[22-Apr-2015 17:08:32 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/page.php on line 10
+[22-Apr-2015 17:08:32 America/Denver] PHP Fatal error:  Call to undefined function layout_url() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/page.php on line 25
+[22-Apr-2015 18:47:53 America/Denver] PHP Fatal error:  Call to undefined function base_url() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/cuser_forgot_password.php on line 6
+[22-Apr-2015 20:52:19 America/Denver] PHP Fatal error:  Using $this when not in object context in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/user_corder.php on line 2
+[22-Apr-2015 22:48:09 America/Denver] PHP Fatal error:  Call to undefined function base_url() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/cart_view.php on line 6
+[23-Apr-2015 01:27:47 America/Denver] PHP Fatal error:  Call to undefined function base_url() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/caddress_shipping.php on line 6
+[23-Apr-2015 02:46:44 America/Denver] PHP Fatal error:  Using $this when not in object context in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/clientproduct_detail.php on line 2
+[23-Apr-2015 04:37:26 America/Denver] PHP Fatal error:  Call to undefined function base_url() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/login.php on line 6
+[23-Apr-2015 06:11:57 America/Denver] PHP Fatal error:  Call to undefined function base_url() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/claccount_sidebar.php on line 3
+[23-Apr-2015 07:58:54 America/Denver] PHP Fatal error:  Call to undefined function base_url() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/user_account.php on line 6
+[23-Apr-2015 11:55:58 America/Denver] PHP Notice:  Undefined variable: breadcrumbdata in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/clchangepassword.php on line 8
+[23-Apr-2015 11:55:58 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/clchangepassword.php on line 8
+[23-Apr-2015 11:55:58 America/Denver] PHP Fatal error:  Call to undefined function svci_load_view() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/clchangepassword.php on line 21
+[23-Apr-2015 12:40:59 America/Denver] PHP Notice:  Undefined variable: page_title in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/tc.php on line 4
+[23-Apr-2015 12:40:59 America/Denver] PHP Notice:  Undefined variable: breadcrumbdata in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/tc.php on line 10
+[23-Apr-2015 12:40:59 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/tc.php on line 10
+[23-Apr-2015 12:40:59 America/Denver] PHP Fatal error:  Call to undefined function layout_url() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/tc.php on line 25
+[23-Apr-2015 13:10:58 America/Denver] PHP Fatal error:  Call to undefined function base_url() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/user_forgot_password.php on line 6
+[23-Apr-2015 13:55:58 America/Denver] PHP Fatal error:  Call to undefined function base_url() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/cuser_reset_password.php on line 6
+[23-Apr-2015 17:54:32 America/Denver] PHP Fatal error:  Using $this when not in object context in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/user_wishlist.php on line 2
+[24-Apr-2015 12:52:58 America/Denver] PHP Fatal error:  Call to undefined function base_url() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/consultantcart_success.php on line 6
+[24-Apr-2015 13:37:58 America/Denver] PHP Fatal error:  Call to undefined function base_url() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/address_shipping.php on line 6
+[24-Apr-2015 14:07:58 America/Denver] PHP Fatal error:  Using $this when not in object context in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/cart_checkout.php on line 2
+[24-Apr-2015 19:15:35 America/Denver] PHP Fatal error:  Call to undefined function base_url() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/user_reset_password.php on line 6
+[24-Apr-2015 21:04:47 America/Denver] PHP Fatal error:  Call to undefined function base_url() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/account_sidebar.php on line 3
+[25-Apr-2015 01:18:03 America/Denver] PHP Fatal error:  Call to undefined function base_url() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/caddress_billing.php on line 6
+[25-Apr-2015 06:20:47 America/Denver] PHP Notice:  Undefined variable: breadcrumbdata in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/products.php on line 6
+[25-Apr-2015 06:20:47 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/products.php on line 6
+[25-Apr-2015 06:20:47 America/Denver] PHP Fatal error:  Call to undefined function base_url() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/products.php on line 24
+[25-Apr-2015 13:40:46 America/Denver] PHP Fatal error:  Call to undefined function base_url() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/user_claccount.php on line 7
+[25-Apr-2015 13:59:23 America/Denver] PHP Fatal error:  Using $this when not in object context in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/user_order.php on line 3
+[25-Apr-2015 15:03:33 America/Denver] PHP Fatal error:  Using $this when not in object context in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/corder_detail.php on line 3
+[25-Apr-2015 15:18:33 America/Denver] PHP Fatal error:  Using $this when not in object context in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/clientproducts.php on line 3
+[25-Apr-2015 16:21:29 America/Denver] PHP Fatal error:  Using $this when not in object context in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/cuser_wishlist.php on line 2
+[25-Apr-2015 17:35:21 America/Denver] PHP Fatal error:  Using $this when not in object context in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/order_detail.php on line 3
+[25-Apr-2015 18:10:45 America/Denver] PHP Fatal error:  Call to undefined function base_url() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/cuser_forgot_password.php on line 6
+[25-Apr-2015 19:35:46 America/Denver] PHP Fatal error:  Call to undefined function base_url() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/consultantcart_view.php on line 5
+[25-Apr-2015 19:45:35 America/Denver] PHP Fatal error:  Call to undefined function base_url() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/login.php on line 6
+[25-Apr-2015 20:09:44 America/Denver] PHP Fatal error:  Using $this when not in object context in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/consultantcart_checkout.php on line 2
+[25-Apr-2015 22:31:05 America/Denver] PHP Fatal error:  Call to undefined function base_url() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/caddress_shipping.php on line 6
+[25-Apr-2015 23:05:34 America/Denver] PHP Fatal error:  Call to undefined function store_fallback_path() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/about.php on line 20
+[26-Apr-2015 00:46:49 America/Denver] PHP Fatal error:  Call to undefined function base_url() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/clogin.php on line 6
+[26-Apr-2015 05:00:55 America/Denver] PHP Fatal error:  Call to undefined function base_url() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/user_claccount.php on line 7
+[26-Apr-2015 05:15:55 America/Denver] PHP Fatal error:  Using $this when not in object context in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/cuser_wishlist.php on line 2
+[26-Apr-2015 15:17:49 America/Denver] PHP Fatal error:  Call to undefined function base_url() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/cart_view.php on line 6
+[26-Apr-2015 16:15:09 America/Denver] PHP Fatal error:  Call to undefined function base_url() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/caddress_shipping.php on line 6
+[27-Apr-2015 02:12:35 America/Denver] PHP Fatal error:  Call to undefined function base_url() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/claccount_sidebar.php on line 3
+[27-Apr-2015 07:29:40 America/Denver] PHP Fatal error:  Using $this when not in object context in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/product_detail.php on line 4
+[27-Apr-2015 08:59:40 America/Denver] PHP Fatal error:  Call to undefined function base_url() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/login.php on line 6
+[29-Apr-2015 15:18:20 America/Denver] PHP Fatal error:  Using $this when not in object context in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/user_order.php on line 3
+[29-Apr-2015 20:25:50 America/Denver] PHP Fatal error:  Using $this when not in object context in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/order_detail.php on line 3
+[29-Apr-2015 23:50:43 America/Denver] PHP Fatal error:  Call to undefined function store_fallback_path() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/about.php on line 20
+[30-Apr-2015 00:35:46 America/Denver] PHP Fatal error:  Using $this when not in object context in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/cuser_wishlist.php on line 2
+[30-Apr-2015 01:13:40 America/Denver] PHP Fatal error:  Call to undefined function base_url() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/cuser_reset_password.php on line 6
+[30-Apr-2015 07:07:39 America/Denver] PHP Fatal error:  Using $this when not in object context in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/clientproducts.php on line 3
+[30-Apr-2015 07:37:40 America/Denver] PHP Fatal error:  Using $this when not in object context in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/corder_detail.php on line 3
+[30-Apr-2015 20:13:06 America/Denver] PHP Fatal error:  Call to undefined function base_url() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/caddress_billing.php on line 6
+[01-May-2015 13:08:20 America/Denver] PHP Fatal error:  Call to undefined function base_url() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/cuser_reset_password.php on line 6
+[01-May-2015 13:29:25 America/Denver] PHP Fatal error:  Using $this when not in object context in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/clientproducts.php on line 3
+[01-May-2015 14:36:20 America/Denver] PHP Fatal error:  Call to undefined function store_fallback_path() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/about.php on line 20
+[01-May-2015 14:57:24 America/Denver] PHP Fatal error:  Using $this when not in object context in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/corder_detail.php on line 3
+[01-May-2015 18:04:55 America/Denver] PHP Fatal error:  Call to undefined function base_url() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/cuser_reset_password.php on line 6
+[01-May-2015 18:06:22 America/Denver] PHP Fatal error:  Using $this when not in object context in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/clientproducts.php on line 3
+[01-May-2015 18:07:56 America/Denver] PHP Fatal error:  Call to undefined function store_fallback_path() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/about.php on line 20
+[01-May-2015 20:08:23 America/Denver] PHP Fatal error:  Call to undefined function base_url() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/user_forgot_password.php on line 6
+[01-May-2015 20:53:23 America/Denver] PHP Fatal error:  Using $this when not in object context in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/user_wishlist.php on line 2
+[02-May-2015 04:50:23 America/Denver] PHP Fatal error:  Call to undefined function base_url() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/user_claccount.php on line 7
+[04-May-2015 06:38:09 America/Denver] PHP Fatal error:  Call to undefined function base_url() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/clogin.php on line 6
+[05-May-2015 16:47:36 America/Denver] PHP Fatal error:  Using $this when not in object context in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/user_wishlist.php on line 2
+[06-May-2015 08:08:45 America/Denver] PHP Fatal error:  Call to undefined function base_url() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/user_forgot_password.php on line 6
+[07-May-2015 13:01:30 America/Denver] PHP Fatal error:  Using $this when not in object context in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/user_wishlist.php on line 2
+[07-May-2015 13:36:51 America/Denver] PHP Fatal error:  Call to undefined function base_url() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/user_forgot_password.php on line 6
+[11-May-2015 01:12:17 America/Denver] PHP Fatal error:  Using $this when not in object context in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/cart_checkout.php on line 2
+[11-May-2015 02:04:40 America/Denver] PHP Fatal error:  Call to undefined function base_url() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/caddress_billing.php on line 6
+[12-May-2015 15:56:16 America/Denver] PHP Fatal error:  Call to undefined function base_url() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/caddress_billing.php on line 6
+[12-May-2015 16:15:53 America/Denver] PHP Fatal error:  Using $this when not in object context in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/cart_checkout.php on line 2
+[12-May-2015 17:08:14 America/Denver] PHP Fatal error:  Call to undefined function base_url() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/caddress_billing.php on line 6
+[12-May-2015 17:09:26 America/Denver] PHP Fatal error:  Using $this when not in object context in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/cart_checkout.php on line 2
+[13-May-2015 14:04:57 America/Denver] PHP Fatal error:  Call to undefined function base_url() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/cuser_reset_password.php on line 6
+[15-May-2015 01:56:21 America/Denver] PHP Fatal error:  Call to undefined function store_fallback_path() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/product_detail.php on line 1
+[15-May-2015 04:32:21 America/Denver] PHP Notice:  Undefined variable: page_title in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/page.php on line 4
+[15-May-2015 04:32:21 America/Denver] PHP Notice:  Undefined variable: breadcrumbdata in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/page.php on line 10
+[15-May-2015 04:32:21 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/page.php on line 10
+[15-May-2015 04:32:21 America/Denver] PHP Fatal error:  Call to undefined function layout_url() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/page.php on line 25
+[15-May-2015 07:28:55 America/Denver] PHP Fatal error:  Using $this when not in object context in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/cart_checkout.php on line 2
+[16-May-2015 06:16:39 America/Denver] PHP Notice:  Undefined variable: page_title in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/tc.php on line 4
+[16-May-2015 06:16:39 America/Denver] PHP Notice:  Undefined variable: breadcrumbdata in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/tc.php on line 10
+[16-May-2015 06:16:39 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/tc.php on line 10
+[16-May-2015 06:16:39 America/Denver] PHP Fatal error:  Call to undefined function layout_url() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/tc.php on line 25
+[16-May-2015 15:49:15 America/Denver] PHP Fatal error:  Call to undefined function base_url() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/cart_view.php on line 6
+[16-May-2015 17:49:55 America/Denver] PHP Fatal error:  Call to undefined function base_url() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/consultantcart_view.php on line 5
+[17-May-2015 17:19:39 America/Denver] PHP Fatal error:  Using $this when not in object context in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/cart_checkout.php on line 2
+[17-May-2015 17:37:25 America/Denver] PHP Fatal error:  Call to undefined function base_url() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/caddress_billing.php on line 6
+[17-May-2015 20:04:31 America/Denver] PHP Fatal error:  Using $this when not in object context in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/cart_checkout.php on line 2
+[17-May-2015 20:05:38 America/Denver] PHP Fatal error:  Call to undefined function base_url() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/caddress_billing.php on line 6
+[19-May-2015 15:34:57 America/Denver] PHP Fatal error:  Using $this when not in object context in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/cart_checkout.php on line 2
+[19-May-2015 15:52:43 America/Denver] PHP Fatal error:  Call to undefined function base_url() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/caddress_billing.php on line 6
+[19-May-2015 16:52:19 America/Denver] PHP Fatal error:  Using $this when not in object context in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/cart_checkout.php on line 2
+[19-May-2015 16:53:28 America/Denver] PHP Fatal error:  Call to undefined function base_url() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/caddress_billing.php on line 6
+[20-May-2015 07:56:01 America/Denver] PHP Notice:  Undefined variable: breadcrumbdata in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/clchangepassword.php on line 8
+[20-May-2015 07:56:01 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/clchangepassword.php on line 8
+[20-May-2015 07:56:01 America/Denver] PHP Fatal error:  Call to undefined function svci_load_view() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/clchangepassword.php on line 21
+[20-May-2015 14:53:06 America/Denver] PHP Fatal error:  Using $this when not in object context in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/cart_checkout.php on line 2
+[20-May-2015 15:10:52 America/Denver] PHP Fatal error:  Call to undefined function base_url() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/caddress_billing.php on line 6
+[20-May-2015 16:07:18 America/Denver] PHP Fatal error:  Using $this when not in object context in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/cart_checkout.php on line 2
+[20-May-2015 16:08:14 America/Denver] PHP Fatal error:  Call to undefined function base_url() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/caddress_billing.php on line 6
+[21-May-2015 02:57:27 America/Denver] PHP Fatal error:  Using $this when not in object context in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/cart_checkout.php on line 2
+[21-May-2015 07:23:38 America/Denver] PHP Fatal error:  Call to undefined function base_url() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/address_shipping.php on line 6
+[21-May-2015 15:26:20 America/Denver] PHP Fatal error:  Using $this when not in object context in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/cart_checkout.php on line 2
+[21-May-2015 15:44:06 America/Denver] PHP Fatal error:  Call to undefined function base_url() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/caddress_billing.php on line 6
+[21-May-2015 16:38:56 America/Denver] PHP Fatal error:  Using $this when not in object context in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/cart_checkout.php on line 2
+[21-May-2015 16:40:05 America/Denver] PHP Fatal error:  Call to undefined function base_url() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/caddress_billing.php on line 6
+[22-May-2015 11:57:32 America/Denver] PHP Fatal error:  Call to undefined function base_url() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/cuser_forgot_password.php on line 6
+[22-May-2015 16:45:34 America/Denver] PHP Fatal error:  Using $this when not in object context in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/consultantcart_checkout.php on line 2
+[22-May-2015 18:02:04 America/Denver] PHP Fatal error:  Call to undefined function base_url() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/account_sidebar.php on line 3
+[22-May-2015 23:16:25 America/Denver] PHP Fatal error:  Call to undefined function base_url() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/caddress_shipping.php on line 6
+[23-May-2015 07:11:24 America/Denver] PHP Notice:  Undefined variable: breadcrumbdata in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/products.php on line 6
+[23-May-2015 07:11:24 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/products.php on line 6
+[23-May-2015 07:11:24 America/Denver] PHP Fatal error:  Call to undefined function base_url() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/products.php on line 24
+[24-May-2015 18:49:46 America/Denver] PHP Fatal error:  Call to undefined function base_url() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/cart_view.php on line 6
+[25-May-2015 01:05:31 America/Denver] PHP Fatal error:  Call to undefined function base_url() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/claccount_sidebar.php on line 3
+[25-May-2015 05:57:23 America/Denver] PHP Fatal error:  Call to undefined function base_url() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/address_shipping.php on line 6
+[26-May-2015 11:39:26 America/Denver] PHP Fatal error:  Using $this when not in object context in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/user_corder.php on line 2
+[28-May-2015 13:00:38 America/Denver] PHP Fatal error:  Call to undefined function base_url() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/cart_view.php on line 6
+[29-May-2015 18:04:55 America/Denver] PHP Notice:  Undefined variable: breadcrumbdata in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/clchangepassword.php on line 8
+[29-May-2015 18:04:55 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/clchangepassword.php on line 8
+[29-May-2015 18:04:55 America/Denver] PHP Fatal error:  Call to undefined function svci_load_view() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/clchangepassword.php on line 21
+[30-May-2015 07:18:30 America/Denver] PHP Notice:  Undefined variable: page_title in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/tc.php on line 4
+[30-May-2015 07:18:30 America/Denver] PHP Notice:  Undefined variable: breadcrumbdata in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/tc.php on line 10
+[30-May-2015 07:18:30 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/tc.php on line 10
+[30-May-2015 07:18:30 America/Denver] PHP Fatal error:  Call to undefined function layout_url() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/tc.php on line 25
+[01-Jun-2015 14:27:44 America/Denver] PHP Notice:  Undefined variable: breadcrumbdata in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/changepassword.php on line 8
+[01-Jun-2015 14:27:44 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/changepassword.php on line 8
+[01-Jun-2015 14:27:44 America/Denver] PHP Fatal error:  Call to undefined function svci_load_view() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/store/changepassword.php on line 21

@@ -1,0 +1,26 @@
+/* CSS Document */
+/*
+File name: login.css
+CSS document designed by Segnant
+Purpose: This file contain those classes which are required for login screen. 
+Therefore, it is required to include only on the login page nowhere else
+*/
+
+/*===================================
+ DESKTOP CLASSES 
+ ===================================*/
+.my_icon
+{
+	FILTER: alpha(opacity=85);
+}	
+
+#desktop_content_div
+{
+	height: inherit !important;
+	height: 280px;
+	padding: 5px;
+	margin: 9px;
+	background-color: #F2F1E4;
+	border: 1px solid #D5D5D5;
+}
+

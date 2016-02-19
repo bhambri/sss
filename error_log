@@ -1,0 +1,23 @@
+[01-Nov-2015 02:18:10 America/Denver] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/simplgm7/public_html/dev/application/models/order_model.php on line 618
+[01-Nov-2015 02:19:04 America/Denver] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/simplgm7/public_html/dev/application/models/order_model.php on line 618
+[01-Nov-2015 02:20:01 America/Denver] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/simplgm7/public_html/dev/application/models/order_model.php on line 618
+[01-Nov-2015 02:22:00 America/Denver] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/simplgm7/public_html/dev/application/models/order_model.php on line 618
+[01-Nov-2015 02:23:09 America/Denver] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/simplgm7/public_html/dev/application/models/order_model.php on line 618
+[01-Nov-2015 03:47:50 America/Denver] PHP Fatal error:  Call to a member function model() on a non-object in /home2/simplgm7/public_html/dev/application/controllers/overrides.php on line 23
+[01-Nov-2015 03:48:55 America/Denver] PHP Fatal error:  Call to a member function model() on a non-object in /home2/simplgm7/public_html/dev/application/controllers/overrides.php on line 23
+[01-Nov-2015 03:49:03 America/Denver] PHP Fatal error:  Call to a member function model() on a non-object in /home2/simplgm7/public_html/dev/application/controllers/overrides.php on line 23
+[01-Nov-2015 03:49:06 America/Denver] PHP Fatal error:  Call to a member function model() on a non-object in /home2/simplgm7/public_html/dev/application/controllers/overrides.php on line 23
+[01-Nov-2015 03:49:07 America/Denver] PHP Fatal error:  Call to a member function model() on a non-object in /home2/simplgm7/public_html/dev/application/controllers/overrides.php on line 23
+[01-Nov-2015 03:56:54 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home2/simplgm7/public_html/dev/application/controllers/overrides.php on line 137
+[01-Nov-2015 03:56:56 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home2/simplgm7/public_html/dev/application/controllers/overrides.php on line 137
+[01-Nov-2015 03:57:00 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home2/simplgm7/public_html/dev/application/controllers/overrides.php on line 137
+[01-Nov-2015 03:57:53 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home2/simplgm7/public_html/dev/application/controllers/overrides.php on line 138
+[01-Nov-2015 03:57:57 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home2/simplgm7/public_html/dev/application/controllers/overrides.php on line 138
+[01-Nov-2015 03:59:39 America/Denver] PHP Fatal error:  Call to a member function model() on a non-object in /home2/simplgm7/public_html/dev/application/controllers/overrides.php on line 23
+[01-Nov-2015 03:59:54 America/Denver] PHP Fatal error:  Call to a member function model() on a non-object in /home2/simplgm7/public_html/dev/application/controllers/overrides.php on line 23
+[01-Nov-2015 04:00:52 America/Denver] PHP Fatal error:  Call to a member function model() on a non-object in /home2/simplgm7/public_html/dev/application/controllers/overrides.php on line 23
+[01-Nov-2015 05:18:34 America/Denver] PHP Fatal error:  Class 'Order_model' not found in /home2/simplgm7/public_html/dev/system/core/Loader.php on line 303
+[01-Nov-2015 05:33:58 America/Denver] PHP Fatal error:  Call to undefined method Order_model::getconrecfromOverrideOrderSum() in /home2/simplgm7/public_html/dev/application/controllers/overrides.php on line 490
+[01-Nov-2015 07:26:10 America/Denver] PHP Parse error:  syntax error, unexpected ',' in /home2/simplgm7/public_html/dev/application/models/order_model.php on line 912
+[01-Nov-2015 07:26:14 America/Denver] PHP Parse error:  syntax error, unexpected ',' in /home2/simplgm7/public_html/dev/application/models/order_model.php on line 912
+[01-Nov-2015 07:26:18 America/Denver] PHP Parse error:  syntax error, unexpected ',' in /home2/simplgm7/public_html/dev/application/models/order_model.php on line 912

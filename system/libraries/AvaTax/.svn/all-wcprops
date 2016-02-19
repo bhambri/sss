@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/online_market_place/!svn/ver/490/marketplaceurl/system/libraries/AvaTax
+END
+TaxOverride.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/online_market_place/!svn/ver/490/marketplaceurl/system/libraries/AvaTax/TaxOverride.php
+END
+TaxOverrideType.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/online_market_place/!svn/ver/490/marketplaceurl/system/libraries/AvaTax/TaxOverrideType.php
+END
+AvaFunctions.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/online_market_place/!svn/ver/490/marketplaceurl/system/libraries/AvaTax/AvaFunctions.php
+END
+JsonSerializable.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/online_market_place/!svn/ver/490/marketplaceurl/system/libraries/AvaTax/JsonSerializable.php
+END
+EstimateTaxRequest.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/online_market_place/!svn/ver/490/marketplaceurl/system/libraries/AvaTax/EstimateTaxRequest.php
+END
+CancelTaxResult.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/online_market_place/!svn/ver/490/marketplaceurl/system/libraries/AvaTax/CancelTaxResult.php
+END
+SeverityLevel.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/online_market_place/!svn/ver/490/marketplaceurl/system/libraries/AvaTax/SeverityLevel.php
+END
+ValidateRequest.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/online_market_place/!svn/ver/490/marketplaceurl/system/libraries/AvaTax/ValidateRequest.php
+END
+Enum.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/online_market_place/!svn/ver/490/marketplaceurl/system/libraries/AvaTax/Enum.php
+END
+AddressServiceRest.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/online_market_place/!svn/ver/490/marketplaceurl/system/libraries/AvaTax/AddressServiceRest.php
+END
+TaxLine.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/online_market_place/!svn/ver/490/marketplaceurl/system/libraries/AvaTax/TaxLine.php
+END
+GetTaxRequest.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/online_market_place/!svn/ver/490/marketplaceurl/system/libraries/AvaTax/GetTaxRequest.php
+END
+ValidAddress.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/online_market_place/!svn/ver/490/marketplaceurl/system/libraries/AvaTax/ValidAddress.php
+END
+JurisdictionType.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/online_market_place/!svn/ver/490/marketplaceurl/system/libraries/AvaTax/JurisdictionType.php
+END
+BaseResult.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/online_market_place/!svn/ver/490/marketplaceurl/system/libraries/AvaTax/BaseResult.php
+END
+CancelTaxRequest.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/online_market_place/!svn/ver/490/marketplaceurl/system/libraries/AvaTax/CancelTaxRequest.php
+END
+TaxServiceRest.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/online_market_place/!svn/ver/490/marketplaceurl/system/libraries/AvaTax/TaxServiceRest.php
+END
+TaxDetail.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/online_market_place/!svn/ver/490/marketplaceurl/system/libraries/AvaTax/TaxDetail.php
+END
+DocumentType.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/online_market_place/!svn/ver/490/marketplaceurl/system/libraries/AvaTax/DocumentType.php
+END
+CancelCode.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/online_market_place/!svn/ver/490/marketplaceurl/system/libraries/AvaTax/CancelCode.php
+END
+Message.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/online_market_place/!svn/ver/490/marketplaceurl/system/libraries/AvaTax/Message.php
+END
+Address.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/online_market_place/!svn/ver/490/marketplaceurl/system/libraries/AvaTax/Address.php
+END
+EstimateTaxResult.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/online_market_place/!svn/ver/490/marketplaceurl/system/libraries/AvaTax/EstimateTaxResult.php
+END
+AddressType.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/online_market_place/!svn/ver/490/marketplaceurl/system/libraries/AvaTax/AddressType.php
+END
+Line.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/online_market_place/!svn/ver/490/marketplaceurl/system/libraries/AvaTax/Line.php
+END
+ValidateResult.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/online_market_place/!svn/ver/490/marketplaceurl/system/libraries/AvaTax/ValidateResult.php
+END
+DetailLevel.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/online_market_place/!svn/ver/490/marketplaceurl/system/libraries/AvaTax/DetailLevel.php
+END
+GetTaxResult.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/online_market_place/!svn/ver/490/marketplaceurl/system/libraries/AvaTax/GetTaxResult.php
+END

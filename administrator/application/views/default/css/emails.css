@@ -1,0 +1,124 @@
+body
+{
+	text-align: left;
+}
+td, span, p, div
+{
+	font-size:12px;
+	font-family: tahoma;
+	font-weight:normal;
+	color:#3A3A38;
+}
+
+.masterTable
+{
+	border: 1px solid #b5b5b5;
+	text-align: left;
+}
+
+.masterTable td
+{
+	vertical-align: top;
+}
+
+
+.contentsTD
+{
+	font-family: tahoma;
+	font-size: 12px;
+	color: 292929;
+	font-weight: normal;
+	padding: 10px;
+	text-align:left;
+}
+.blankHeight
+{
+	height: 50px;
+}
+
+hr
+{
+	background-color: #cccccc;
+	color: #cccccc;
+	height: 2px;
+	text-align:center;
+	width:98%
+}
+
+.heading2
+{
+	font-family: arial;
+	font-size: 14px;
+	color: #800001;
+	font-weight: bold;
+}
+.heading3
+{
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #2C5EA5;
+	font-weight: bold;
+}
+
+.heading2 a:link, .heading2 a:active, .heading2 a:visited
+{
+	font-family: arial;
+	font-size: 14px;
+	color: #800001;
+	font-weight: bold;
+	text-decoration: underline;
+}  
+
+.heading2 a:hover
+{
+	font-family: arial;
+	font-size: 14px;
+	color: #800001;
+	font-weight: bold;
+	text-decoration: none;
+}  
+
+hr
+{
+	height: 2px;
+	color: #CCCCCC;
+	width: 100%;
+}
+
+.preview_button, .button
+{
+	border: 1px;
+	font-family: tahoma;
+	font-size: 11px;
+	padding: 2px 5px 2px 5px;
+	margin-top: 10px;
+}
+.button1
+{
+	background: url('../../images/forms/button_normal.gif') no-repeat;
+	border: 0px;
+	height: 24px;
+	padding: 0px 0px 0px 25px !important;
+	padding: 0px 0px 0px 19px;
+	margin-left: 20px !important;
+	margin-left: 5px;
+	font-family: tahoma;
+	font-size: 13px;
+	font-weight: bold;
+	color: #215295;	
+	cursor: hand;
+}
+
+.button2
+{
+	background: url('../../images/forms/button_normal.gif') no-repeat;
+	border: 0px;
+	height: 24px;
+	padding: 0px 0px 0px 25px !important;
+	padding: 0px 0px 0px 8px;
+	font-family: tahoma;
+	font-size: 13px;
+	font-weight: bold;
+	color: #215295;	
+	cursor: hand;
+}

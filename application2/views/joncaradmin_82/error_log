@@ -1,0 +1,3 @@
+[22-Apr-2015 00:59:01 America/Denver] PHP Fatal error:  Call to undefined function store_fallback_path() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/index.php on line 25
+[25-Apr-2015 21:13:31 America/Denver] PHP Fatal error:  Call to undefined function store_fallback_path() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/index.php on line 25
+[30-Apr-2015 02:57:33 America/Denver] PHP Fatal error:  Call to undefined function store_fallback_path() in /home2/simplgm7/public_html/application2/views/joncaradmin_82/index.php on line 25

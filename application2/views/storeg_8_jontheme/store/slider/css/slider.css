@@ -1,0 +1,75 @@
+/* Category CSS 
+-------------------------------------*/
+
+#mainWrapper{ margin:0 auto; background:#fff}
+#mainWrapper a, a:active, a:visited, a:active{color:#0065dc; text-decoration:none}
+#mainWrapper a:hover{text-decoration:underline}
+#mainWrapper h1, h2, h3, h4, h5, h6,p {margin:0; padding:0}
+#mainWrapper ol, ul, li, fieldset, form, table{ background: transparent; border: 0; margin: 0; outline: 0; padding: 0; vertical-align: baseline; }
+#mainWrapper a { background: transparent; margin: 0; padding: 0; vertical-align: baseline; }
+#mainWrapper ul, ol { list-style: none; }
+#mainWrapper button, input, select, textarea { margin: 0; }
+
+#SAContents{padding:20px 16px}
+#SACmsContents{padding:0px 16px}
+#SALeftCol{width:725px; float:left;}
+#SARightCol{width:200px; float:right;}
+#SACarouselBox{border:1px solid #c3d4ea; height:300px; overflow:hidden}
+
+.bgcol1{ background: #e76d66;}
+.bgcol2{ background: #95bb7a;}
+.bgcol3{ background: #57a6b9;}
+
+
+.SACarouselThumbsCol{width:386px; height:148px; float:right; background-position:0 4px !important;}
+.SACarouselThumbsCol ul li{width:100%; padding:2%; position:relative; height: 148px; list-style:none;}
+*+html .SACarouselThumbsCol ul li{padding:6px 0 5px 0;}
+.SACarouselThumbsCol ul li div.figure{ width: 128px; height: 121px; float:left;}
+.SACarouselThumbsCol ul li:hover{cursor:pointer;}
+
+.SACarouselThumbsCol ul li div.txt{color:#fff; float: right; width: 62%; margin: 10px 0 0 0;}
+.SACarouselThumbsCol ul li div.txt h3{ font-size: 25px;  float: left; width: 100%; font-family: 'nexa_boldregular';}
+.SACarouselThumbsCol ul li div.txt p{font-size: 15px; line-height:20px; float: left; width: 100%;}
+
+.SACarouselThumbsCol ul li div a{font-size:11px; line-height:12px;}
+
+.SACarouselThumbsCol ul li.active a{color:#FFF !important}
+.carouselPointer{ display:block; position:absolute; left:-55px; top:0; z-index:9999}
+.SACarouselImgCol{width:613px; height:444px; float:left;}
+.SACarouselImgCol img{width:100%; height:auto; float:left}
+.SACarouselDetailsCol{width:234px; height:280px; float:left; padding:10px 12px; background-position:0 4px !important;}
+.SACarouselDetailsCol h2{font-size:18px; font-weight:normal; color:#0065de; margin-bottom:3px; word-wrap: break-word; overflow:hidden; width:233px; float:left; display:block;}
+.SACarouselDetailsCol p{line-height:18px; color:#000; display:block}
+.SACarouselDetailsCol p.knowMore{text-align:right; padding-top:20px}
+.SACarouselDetailsCol ul{padding:15px 0 0 15px !important}
+.SACarouselDetailsCol ul li{margin-bottom:12px; list-style-type:disc; color:#878787;}
+.findTitle{padding:0 0 10px; color:#000000; font-size:14px; font-weight:bold}
+.findTitle span{color:#bcbcba; font-weight:bold; font-size:14px;}
+.findTitle span a{font-size:12px; font-weight:normal; padding:0 2px}
+.refineButtonBlock{float:right !important; width:auto; font-size:12px}
+.refineCollegeLeft{background-color:#b0d2ff; width:26px; float:left; position:relative; height:201px}
+.refineCollegeBg{background-position:-165px 0px !important; width:31px; height:115px; display:block; text-indent:-9999px; position:absolute; right:-5px; top:0}
+.clearFix{clear:both;}
+.flLt{float:left}
+.flRt{float:right}
+.spacer5{height:5px; overflow:hidden}
+.spacer8{height:8px; overflow:hidden}
+.spacer10{height:10px; overflow:hidden}
+.spacer20{height:20px; overflow:hidden}
+.h-Rule{height:1px; background-color:#ededed; overflow:hidden; width:100%; float:left;}
+.blueButtonStyle{background-color:#6490cd; color:#FFFFFF; font-size:12px; border:1px solid #4b78b1; font-weight:bold; font-family:Arial, Helvetica, sans-serif; padding:3px 6px; cursor:pointer; overflow:visible; vertical-align:middle}
+.orangeButtonStyle,.applyNowButton, input.saveButton{background-color:#ff8400 !important; color:#FFFFFF; font-size:13px !important; border:1px solid #cf730f; border-right:1px solid #9d3b06; border-bottom:1px solid #9d3b06; font-weight:bold; font-family:Arial, Helvetica, sans-serif; padding:3px 5px; padding:4px 5px\9; cursor:pointer; overflow:visible}
+input.saveButton{background-position:0 -570px !important; border:1px solid #eb8a24; font-weight:bold; padding:1px 6px; -moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius:3px; -moz-box-shadow:1px 1px 1px #a6a6a6; -webkit-box-shadow: 1px 1px 1px #a6a6a6; box-shadow: 1px 1px 1px #a6a6a6;}
+.applyNowButton{background-position:-155px -245px !important; padding:3px 15px 3px 5px !important}
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+ .orangeButtonStyle{padding:4px 6px}
+ .orangeButtonStyle_disabled{padding:4px 6px}
+}
+
+.globalPagination{float:right; padding-right:5px}
+.globalPagination ul li{float:left;padding:3px 6px !important; width:auto; border:1px solid #e6e6e6; margin:0 0 0 8px !important; background:#fff}
+.globalPagination ul li.activePage{border:1px solid #fd8103;}
+.globalPagination ul li.activePage a{color:#000 !important; font-weight:bold !important}
+#mainWrapper input{font-family:Arial, Helvetica, sans-serif; font-size:12px}
+.cateRefineBlock{padding-top:22px}
+.cateRefineBlock h3, .findConsultantForm h3, .stepsToStudyMainCol h3,.stepsToStudyMainCol h4{font-size:18px; color:#000000; font-weight:normal; margin-bottom:5px; display:block; clear:left}

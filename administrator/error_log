@@ -1,0 +1,743 @@
+[02-Jun-2015 21:42:05 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/31915.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[02-Jun-2015 21:42:05 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/32015.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[02-Jun-2015 23:55:41 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/31915.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[02-Jun-2015 23:55:41 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/32015.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[03-Jun-2015 07:03:25 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/31915.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[03-Jun-2015 07:03:25 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/32015.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[03-Jun-2015 07:03:31 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/31915.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[03-Jun-2015 07:03:31 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/32015.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[04-Jun-2015 08:55:36 UTC] PHP Fatal error:  Class 'AvaTax\Exception' not found in /home2/simplgm7/public_html/system/libraries/AvaTax/TaxServiceRest.php on line 84
+[04-Jun-2015 08:57:57 UTC] PHP Fatal error:  Class 'AvaTax\Exception' not found in /home2/simplgm7/public_html/system/libraries/AvaTax/TaxServiceRest.php on line 85
+[04-Jun-2015 03:07:19 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/31915.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[04-Jun-2015 03:07:19 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/32015.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[04-Jun-2015 03:15:27 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/31915.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[04-Jun-2015 03:15:27 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/32015.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[04-Jun-2015 03:15:38 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/31915.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[04-Jun-2015 03:15:38 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/32015.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[04-Jun-2015 03:17:02 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/31915.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[04-Jun-2015 03:17:02 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/32015.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[04-Jun-2015 03:20:06 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/31915.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[04-Jun-2015 03:20:06 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/32015.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[04-Jun-2015 03:20:16 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/31915.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[04-Jun-2015 03:20:16 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/32015.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[04-Jun-2015 03:20:35 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.', return code: 1, output: Array
+(
+)
+
+[04-Jun-2015 03:21:24 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/31915.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[04-Jun-2015 03:21:24 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/32015.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[04-Jun-2015 03:21:41 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/31915.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[04-Jun-2015 03:21:41 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/32015.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[04-Jun-2015 03:24:17 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/31915.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[04-Jun-2015 03:24:17 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/32015.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[04-Jun-2015 03:25:01 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/31915.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[04-Jun-2015 03:25:01 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/32015.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[04-Jun-2015 03:25:50 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/31915.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[04-Jun-2015 03:25:50 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/32015.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[04-Jun-2015 03:31:45 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/31915.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[04-Jun-2015 03:31:45 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/32015.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[04-Jun-2015 03:31:59 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/31915.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[04-Jun-2015 03:31:59 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/32015.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[04-Jun-2015 03:56:03 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.', return code: 1, output: Array
+(
+)
+
+[04-Jun-2015 13:49:47 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.', return code: 1, output: Array
+(
+)
+
+[04-Jun-2015 13:51:05 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.', return code: 1, output: Array
+(
+)
+
+[04-Jun-2015 13:51:53 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.', return code: 1, output: Array
+(
+)
+
+[04-Jun-2015 14:01:07 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.', return code: 1, output: Array
+(
+)
+
+[04-Jun-2015 14:01:28 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.', return code: 1, output: Array
+(
+)
+
+[04-Jun-2015 14:01:45 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.', return code: 1, output: Array
+(
+)
+
+[04-Jun-2015 20:15:43 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.', return code: 1, output: Array
+(
+)
+
+[04-Jun-2015 20:15:43 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.', return code: 1, output: Array
+(
+)
+
+[09-Jun-2015 08:48:34 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/31915.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[09-Jun-2015 08:48:34 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/32015.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[15-Jun-2015 12:08:59 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/31915.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[15-Jun-2015 12:08:59 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/32015.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[19-Jun-2015 12:36:37 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/31915.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[19-Jun-2015 12:36:37 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/32015.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[19-Jun-2015 12:37:03 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/31915.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[19-Jun-2015 12:37:03 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/32015.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[19-Jun-2015 12:37:16 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/31915.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[19-Jun-2015 12:37:16 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/32015.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[19-Jun-2015 12:40:47 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/31915.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[19-Jun-2015 12:40:47 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/32015.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[19-Jun-2015 12:41:48 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/31915.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[19-Jun-2015 12:41:48 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/32015.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[19-Jun-2015 12:42:04 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/31915.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[19-Jun-2015 12:42:04 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/32015.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[19-Jun-2015 12:42:23 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/31915.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[19-Jun-2015 12:42:23 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/32015.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[19-Jun-2015 12:48:01 America/Denver] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/simplgm7/public_html/dev/administrator/application/controllers/promotionrules.php on line 291
+[19-Jun-2015 12:48:04 America/Denver] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/simplgm7/public_html/dev/administrator/application/controllers/promotionrules.php on line 291
+[19-Jun-2015 12:48:18 America/Denver] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/simplgm7/public_html/dev/administrator/application/controllers/promotionrules.php on line 291
+[19-Jun-2015 12:49:47 America/Denver] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/simplgm7/public_html/dev/administrator/application/controllers/promotionrules.php on line 291
+[19-Jun-2015 12:49:51 America/Denver] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/simplgm7/public_html/dev/administrator/application/controllers/promotionrules.php on line 291
+[19-Jun-2015 12:53:14 America/Denver] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/simplgm7/public_html/dev/administrator/application/controllers/promotionrules.php on line 291
+[19-Jun-2015 12:53:17 America/Denver] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/simplgm7/public_html/dev/administrator/application/controllers/promotionrules.php on line 291
+[19-Jun-2015 12:53:21 America/Denver] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/simplgm7/public_html/dev/administrator/application/controllers/promotionrules.php on line 291
+[19-Jun-2015 12:53:24 America/Denver] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/simplgm7/public_html/dev/administrator/application/controllers/promotionrules.php on line 291
+[19-Jun-2015 12:56:09 America/Denver] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/simplgm7/public_html/dev/administrator/application/controllers/promotionrules.php on line 294
+[19-Jun-2015 12:58:25 America/Denver] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/simplgm7/public_html/dev/administrator/application/controllers/promotionrules.php on line 293
+[19-Jun-2015 12:58:40 America/Denver] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/simplgm7/public_html/dev/administrator/application/controllers/promotionrules.php on line 293
+[19-Jun-2015 12:59:40 America/Denver] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/simplgm7/public_html/dev/administrator/application/controllers/promotionrules.php on line 293
+[19-Jun-2015 13:02:36 America/Denver] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/simplgm7/public_html/dev/administrator/application/controllers/promotionrules.php on line 293
+[19-Jun-2015 13:02:40 America/Denver] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/simplgm7/public_html/dev/administrator/application/controllers/promotionrules.php on line 293
+[19-Jun-2015 13:03:21 America/Denver] PHP Parse error:  syntax error, unexpected ''promot' (T_ENCAPSED_AND_WHITESPACE) in /home2/simplgm7/public_html/dev/administrator/application/controllers/promotionrules.php on line 192
+[19-Jun-2015 13:03:21 America/Denver] PHP Parse error:  syntax error, unexpected ''promot' (T_ENCAPSED_AND_WHITESPACE) in /home2/simplgm7/public_html/dev/administrator/application/controllers/promotionrules.php on line 192
+[19-Jun-2015 13:03:23 America/Denver] PHP Parse error:  syntax error, unexpected ''promot' (T_ENCAPSED_AND_WHITESPACE) in /home2/simplgm7/public_html/dev/administrator/application/controllers/promotionrules.php on line 192
+[19-Jun-2015 13:03:26 America/Denver] PHP Parse error:  syntax error, unexpected ''promot' (T_ENCAPSED_AND_WHITESPACE) in /home2/simplgm7/public_html/dev/administrator/application/controllers/promotionrules.php on line 192
+[19-Jun-2015 13:03:27 America/Denver] PHP Parse error:  syntax error, unexpected ''promot' (T_ENCAPSED_AND_WHITESPACE) in /home2/simplgm7/public_html/dev/administrator/application/controllers/promotionrules.php on line 192
+[19-Jun-2015 13:03:27 America/Denver] PHP Parse error:  syntax error, unexpected ''promot' (T_ENCAPSED_AND_WHITESPACE) in /home2/simplgm7/public_html/dev/administrator/application/controllers/promotionrules.php on line 192
+[19-Jun-2015 13:03:29 America/Denver] PHP Parse error:  syntax error, unexpected ''promot' (T_ENCAPSED_AND_WHITESPACE) in /home2/simplgm7/public_html/dev/administrator/application/controllers/promotionrules.php on line 192
+[19-Jun-2015 13:03:32 America/Denver] PHP Parse error:  syntax error, unexpected ''promot' (T_ENCAPSED_AND_WHITESPACE) in /home2/simplgm7/public_html/dev/administrator/application/controllers/promotionrules.php on line 192
+[19-Jun-2015 13:03:33 America/Denver] PHP Parse error:  syntax error, unexpected ''promot' (T_ENCAPSED_AND_WHITESPACE) in /home2/simplgm7/public_html/dev/administrator/application/controllers/promotionrules.php on line 192
+[19-Jun-2015 13:04:27 America/Denver] PHP Parse error:  syntax error, unexpected ''promot' (T_ENCAPSED_AND_WHITESPACE) in /home2/simplgm7/public_html/dev/administrator/application/controllers/promotionrules.php on line 192
+[19-Jun-2015 13:04:34 America/Denver] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/simplgm7/public_html/dev/administrator/application/controllers/promotionrules.php on line 294
+[20-Jun-2015 02:27:42 America/Denver] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/simplgm7/public_html/dev/administrator/application/controllers/promotionrules.php on line 297
+[20-Jun-2015 02:27:47 America/Denver] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/simplgm7/public_html/dev/administrator/application/controllers/promotionrules.php on line 297
+[20-Jun-2015 02:28:31 America/Denver] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/simplgm7/public_html/dev/administrator/application/controllers/promotionrules.php on line 297
+[20-Jun-2015 02:28:35 America/Denver] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/simplgm7/public_html/dev/administrator/application/controllers/promotionrules.php on line 297
+[20-Jun-2015 02:33:31 America/Denver] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/simplgm7/public_html/dev/administrator/application/controllers/promotionrules.php on line 297
+[20-Jun-2015 02:33:36 America/Denver] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/simplgm7/public_html/dev/administrator/application/controllers/promotionrules.php on line 297
+[20-Jun-2015 02:38:26 America/Denver] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/simplgm7/public_html/dev/administrator/application/controllers/promotionrules.php on line 297
+[20-Jun-2015 02:38:30 America/Denver] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/simplgm7/public_html/dev/administrator/application/controllers/promotionrules.php on line 297
+[20-Jun-2015 02:38:35 America/Denver] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/simplgm7/public_html/dev/administrator/application/controllers/promotionrules.php on line 297
+[20-Jun-2015 02:38:36 America/Denver] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/simplgm7/public_html/dev/administrator/application/controllers/promotionrules.php on line 297
+[20-Jun-2015 02:39:17 America/Denver] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/simplgm7/public_html/dev/administrator/application/controllers/promotionrules.php on line 297
+[20-Jun-2015 02:39:21 America/Denver] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/simplgm7/public_html/dev/administrator/application/controllers/promotionrules.php on line 297
+[20-Jun-2015 02:39:27 America/Denver] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/simplgm7/public_html/dev/administrator/application/controllers/promotionrules.php on line 297
+[20-Jun-2015 02:40:16 America/Denver] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/simplgm7/public_html/dev/administrator/application/controllers/promotionrules.php on line 297
+[20-Jun-2015 02:40:23 America/Denver] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/simplgm7/public_html/dev/administrator/application/controllers/promotionrules.php on line 297
+[20-Jun-2015 02:40:28 America/Denver] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/simplgm7/public_html/dev/administrator/application/controllers/promotionrules.php on line 297
+[20-Jun-2015 02:40:29 America/Denver] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/simplgm7/public_html/dev/administrator/application/controllers/promotionrules.php on line 297
+[20-Jun-2015 02:40:29 America/Denver] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/simplgm7/public_html/dev/administrator/application/controllers/promotionrules.php on line 297
+[20-Jun-2015 02:40:30 America/Denver] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/simplgm7/public_html/dev/administrator/application/controllers/promotionrules.php on line 297
+[20-Jun-2015 02:40:30 America/Denver] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/simplgm7/public_html/dev/administrator/application/controllers/promotionrules.php on line 297
+[20-Jun-2015 02:41:16 America/Denver] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/simplgm7/public_html/dev/administrator/application/controllers/promotionrules.php on line 297
+[20-Jun-2015 02:42:35 America/Denver] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/simplgm7/public_html/dev/administrator/application/controllers/promotionrules.php on line 297
+[20-Jun-2015 02:46:46 America/Denver] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/simplgm7/public_html/dev/administrator/application/controllers/promotionrules.php on line 297
+[20-Jun-2015 02:46:49 America/Denver] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/simplgm7/public_html/dev/administrator/application/controllers/promotionrules.php on line 297
+[20-Jun-2015 02:46:51 America/Denver] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/simplgm7/public_html/dev/administrator/application/controllers/promotionrules.php on line 297
+[20-Jun-2015 02:46:51 America/Denver] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/simplgm7/public_html/dev/administrator/application/controllers/promotionrules.php on line 297
+[20-Jun-2015 02:46:51 America/Denver] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/simplgm7/public_html/dev/administrator/application/controllers/promotionrules.php on line 297
+[20-Jun-2015 02:46:52 America/Denver] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/simplgm7/public_html/dev/administrator/application/controllers/promotionrules.php on line 297
+[20-Jun-2015 02:46:53 America/Denver] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/simplgm7/public_html/dev/administrator/application/controllers/promotionrules.php on line 297
+[20-Jun-2015 02:46:57 America/Denver] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/simplgm7/public_html/dev/administrator/application/controllers/promotionrules.php on line 297
+[20-Jun-2015 02:46:57 America/Denver] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/simplgm7/public_html/dev/administrator/application/controllers/promotionrules.php on line 297
+[20-Jun-2015 02:46:58 America/Denver] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/simplgm7/public_html/dev/administrator/application/controllers/promotionrules.php on line 297
+[20-Jun-2015 02:46:59 America/Denver] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/simplgm7/public_html/dev/administrator/application/controllers/promotionrules.php on line 297
+[20-Jun-2015 02:46:59 America/Denver] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/simplgm7/public_html/dev/administrator/application/controllers/promotionrules.php on line 297
+[20-Jun-2015 02:46:59 America/Denver] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/simplgm7/public_html/dev/administrator/application/controllers/promotionrules.php on line 297
+[20-Jun-2015 02:49:59 America/Denver] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/simplgm7/public_html/dev/administrator/application/controllers/promotionrules.php on line 297
+[20-Jun-2015 02:50:03 America/Denver] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/simplgm7/public_html/dev/administrator/application/controllers/promotionrules.php on line 297
+[20-Jun-2015 03:03:52 America/Denver] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/simplgm7/public_html/dev/administrator/application/controllers/promotionrules.php on line 297
+[20-Jun-2015 03:21:00 America/Denver] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/simplgm7/public_html/dev/administrator/application/controllers/promotionrules.php on line 297
+[20-Jun-2015 05:38:34 America/Denver] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/simplgm7/public_html/dev/administrator/application/controllers/promotionrules.php on line 297
+[20-Jun-2015 05:41:06 America/Denver] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/simplgm7/public_html/dev/administrator/application/controllers/promotionrules.php on line 297
+[20-Jun-2015 05:42:16 America/Denver] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/simplgm7/public_html/dev/administrator/application/controllers/promotionrules.php on line 297
+[20-Jun-2015 05:45:36 America/Denver] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/simplgm7/public_html/dev/administrator/application/controllers/promotionrules.php on line 298
+[20-Jun-2015 05:46:30 America/Denver] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/simplgm7/public_html/dev/administrator/application/controllers/promotionrules.php on line 298
+[20-Jun-2015 05:47:35 America/Denver] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/simplgm7/public_html/dev/administrator/application/controllers/promotionrules.php on line 297
+[20-Jun-2015 05:47:39 America/Denver] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/simplgm7/public_html/dev/administrator/application/controllers/promotionrules.php on line 297
+[20-Jun-2015 05:47:43 America/Denver] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/simplgm7/public_html/dev/administrator/application/controllers/promotionrules.php on line 297
+[20-Jun-2015 05:48:55 America/Denver] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/simplgm7/public_html/dev/administrator/application/controllers/promotionrules.php on line 297
+[20-Jun-2015 05:50:07 America/Denver] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/simplgm7/public_html/dev/administrator/application/controllers/promotionrules.php on line 297
+[20-Jun-2015 05:50:10 America/Denver] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/simplgm7/public_html/dev/administrator/application/controllers/promotionrules.php on line 297
+[20-Jun-2015 07:56:27 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/dev/' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.', return code: 1, output: Array
+(
+)
+
+[20-Jun-2015 07:56:27 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/dev/' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.', return code: 1, output: Array
+(
+)
+
+[20-Jun-2015 07:56:28 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/dev/' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.', return code: 1, output: Array
+(
+)
+
+[20-Jun-2015 07:56:31 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/dev/' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.', return code: 1, output: Array
+(
+)
+
+[20-Jun-2015 07:56:31 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/dev/' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.', return code: 1, output: Array
+(
+)
+
+[20-Jun-2015 07:56:31 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/dev/' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.', return code: 1, output: Array
+(
+)
+
+[20-Jun-2015 09:49:59 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/dev/' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.', return code: 1, output: Array
+(
+)
+
+[20-Jun-2015 09:49:59 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/dev/' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.', return code: 1, output: Array
+(
+)
+
+[20-Jun-2015 09:49:59 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/dev/' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.', return code: 1, output: Array
+(
+)
+
+[21-Jun-2015 04:02:10 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/1143552152.jpeg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpeg', return code: 1, output: Array
+(
+)
+
+[21-Jun-2015 04:02:14 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/1143552152.jpeg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpeg', return code: 1, output: Array
+(
+)
+
+[21-Jun-2015 04:02:35 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/1143552152.jpeg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpeg', return code: 1, output: Array
+(
+)
+
+[23-Jun-2015 10:37:47 America/Denver] PHP Fatal error:  Call to a member function get_client_details() on a non-object in /home2/simplgm7/public_html/dev/administrator/application/controllers/consultant.php on line 88
+[23-Jun-2015 10:37:51 America/Denver] PHP Fatal error:  Call to a member function get_client_details() on a non-object in /home2/simplgm7/public_html/dev/administrator/application/controllers/consultant.php on line 88
+[23-Jun-2015 10:37:54 America/Denver] PHP Fatal error:  Call to a member function get_client_details() on a non-object in /home2/simplgm7/public_html/dev/administrator/application/controllers/consultant.php on line 88
+[24-Jun-2015 10:55:51 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/dev/' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.', return code: 1, output: Array
+(
+)
+
+[24-Jun-2015 10:57:26 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/dev/' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.', return code: 1, output: Array
+(
+)
+
+[24-Jun-2015 10:57:34 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/dev/' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.', return code: 1, output: Array
+(
+)
+
+[24-Jun-2015 10:57:39 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/dev/' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.', return code: 1, output: Array
+(
+)
+
+[24-Jun-2015 10:57:43 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/dev/' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.', return code: 1, output: Array
+(
+)
+
+[24-Jun-2015 11:00:25 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/dev/' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.', return code: 1, output: Array
+(
+)
+
+[27-Jun-2015 03:00:46 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/dev/' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.', return code: 1, output: Array
+(
+)
+
+[27-Jun-2015 03:00:52 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/dev/' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.', return code: 1, output: Array
+(
+)
+
+[27-Jun-2015 03:52:17 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/dev/' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.', return code: 1, output: Array
+(
+)
+
+[27-Jun-2015 03:52:17 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/dev/' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.', return code: 1, output: Array
+(
+)
+
+[27-Jun-2015 03:52:17 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/dev/' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.', return code: 1, output: Array
+(
+)
+
+[03-Jul-2015 22:49:45 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/31915.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[03-Jul-2015 22:49:45 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/32015.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[03-Jul-2015 22:50:46 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/31915.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[03-Jul-2015 22:50:46 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/32015.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[03-Oct-2015 00:04:34 America/Denver] PHP Fatal error:  Call to a member function getclientfromurl() on a non-object in /home2/simplgm7/public_html/dev/administrator/application/views/default/includes/header.php on line 165
+[03-Oct-2015 00:04:37 America/Denver] PHP Fatal error:  Call to a member function getclientfromurl() on a non-object in /home2/simplgm7/public_html/dev/administrator/application/views/default/includes/header.php on line 165
+[03-Oct-2015 00:04:38 America/Denver] PHP Fatal error:  Call to a member function getclientfromurl() on a non-object in /home2/simplgm7/public_html/dev/administrator/application/views/default/includes/header.php on line 165
+[03-Oct-2015 00:04:38 America/Denver] PHP Fatal error:  Call to a member function getclientfromurl() on a non-object in /home2/simplgm7/public_html/dev/administrator/application/views/default/includes/header.php on line 165
+[03-Oct-2015 00:04:38 America/Denver] PHP Fatal error:  Call to a member function getclientfromurl() on a non-object in /home2/simplgm7/public_html/dev/administrator/application/views/default/includes/header.php on line 165
+[03-Oct-2015 00:04:38 America/Denver] PHP Fatal error:  Call to a member function getclientfromurl() on a non-object in /home2/simplgm7/public_html/dev/administrator/application/views/default/includes/header.php on line 165
+[03-Oct-2015 00:05:30 America/Denver] PHP Fatal error:  Call to a member function getclientfromurl() on a non-object in /home2/simplgm7/public_html/dev/administrator/application/views/default/includes/header.php on line 165
+[03-Oct-2015 00:05:33 America/Denver] PHP Fatal error:  Call to a member function getclientfromurl() on a non-object in /home2/simplgm7/public_html/dev/administrator/application/views/default/includes/header.php on line 165
+[03-Oct-2015 00:05:34 America/Denver] PHP Fatal error:  Call to a member function getclientfromurl() on a non-object in /home2/simplgm7/public_html/dev/administrator/application/views/default/includes/header.php on line 165
+[03-Oct-2015 00:05:34 America/Denver] PHP Fatal error:  Call to a member function getclientfromurl() on a non-object in /home2/simplgm7/public_html/dev/administrator/application/views/default/includes/header.php on line 165
+[03-Oct-2015 00:05:34 America/Denver] PHP Fatal error:  Call to a member function getclientfromurl() on a non-object in /home2/simplgm7/public_html/dev/administrator/application/views/default/includes/header.php on line 165
+[03-Oct-2015 00:05:34 America/Denver] PHP Fatal error:  Call to a member function getclientfromurl() on a non-object in /home2/simplgm7/public_html/dev/administrator/application/views/default/includes/header.php on line 165
+[03-Oct-2015 00:05:34 America/Denver] PHP Fatal error:  Call to a member function getclientfromurl() on a non-object in /home2/simplgm7/public_html/dev/administrator/application/views/default/includes/header.php on line 165
+[03-Oct-2015 00:05:34 America/Denver] PHP Fatal error:  Call to a member function getclientfromurl() on a non-object in /home2/simplgm7/public_html/dev/administrator/application/views/default/includes/header.php on line 165
+[03-Oct-2015 00:05:34 America/Denver] PHP Fatal error:  Call to a member function getclientfromurl() on a non-object in /home2/simplgm7/public_html/dev/administrator/application/views/default/includes/header.php on line 165
+[03-Oct-2015 00:05:34 America/Denver] PHP Fatal error:  Call to a member function getclientfromurl() on a non-object in /home2/simplgm7/public_html/dev/administrator/application/views/default/includes/header.php on line 165
+[03-Oct-2015 00:05:34 America/Denver] PHP Fatal error:  Call to a member function getclientfromurl() on a non-object in /home2/simplgm7/public_html/dev/administrator/application/views/default/includes/header.php on line 165
+[03-Oct-2015 00:05:35 America/Denver] PHP Fatal error:  Call to a member function getclientfromurl() on a non-object in /home2/simplgm7/public_html/dev/administrator/application/views/default/includes/header.php on line 165
+[03-Oct-2015 00:05:35 America/Denver] PHP Fatal error:  Call to a member function getclientfromurl() on a non-object in /home2/simplgm7/public_html/dev/administrator/application/views/default/includes/header.php on line 165
+[03-Oct-2015 00:05:35 America/Denver] PHP Fatal error:  Call to a member function getclientfromurl() on a non-object in /home2/simplgm7/public_html/dev/administrator/application/views/default/includes/header.php on line 165
+[03-Oct-2015 00:05:35 America/Denver] PHP Fatal error:  Call to a member function getclientfromurl() on a non-object in /home2/simplgm7/public_html/dev/administrator/application/views/default/includes/header.php on line 165
+[03-Oct-2015 00:05:35 America/Denver] PHP Fatal error:  Call to a member function getclientfromurl() on a non-object in /home2/simplgm7/public_html/dev/administrator/application/views/default/includes/header.php on line 165
+[03-Oct-2015 00:06:29 America/Denver] PHP Fatal error:  Call to a member function getclientfromurl() on a non-object in /home2/simplgm7/public_html/dev/administrator/application/views/default/includes/header.php on line 165
+[03-Oct-2015 00:06:29 America/Denver] PHP Fatal error:  Call to a member function getclientfromurl() on a non-object in /home2/simplgm7/public_html/dev/administrator/application/views/default/includes/header.php on line 165
+[03-Oct-2015 00:06:29 America/Denver] PHP Fatal error:  Call to a member function getclientfromurl() on a non-object in /home2/simplgm7/public_html/dev/administrator/application/views/default/includes/header.php on line 165
+[03-Oct-2015 00:06:42 America/Denver] PHP Fatal error:  Call to a member function getclientfromurl() on a non-object in /home2/simplgm7/public_html/dev/administrator/application/views/default/includes/header.php on line 165
+[03-Oct-2015 00:08:08 America/Denver] PHP Fatal error:  Call to a member function getclientfromurl() on a non-object in /home2/simplgm7/public_html/dev/administrator/application/views/default/includes/header.php on line 165
+[03-Oct-2015 00:08:31 America/Denver] PHP Fatal error:  Call to a member function getclientfromurl() on a non-object in /home2/simplgm7/public_html/dev/administrator/application/views/default/includes/header.php on line 165
+[03-Oct-2015 00:08:42 America/Denver] PHP Fatal error:  Call to a member function getclientfromurl() on a non-object in /home2/simplgm7/public_html/dev/administrator/application/views/default/includes/header.php on line 165
+[03-Oct-2015 00:08:51 America/Denver] PHP Fatal error:  Call to a member function getclientfromurl() on a non-object in /home2/simplgm7/public_html/dev/administrator/application/views/default/includes/header.php on line 165
+[03-Oct-2015 00:13:42 America/Denver] PHP Fatal error:  Call to a member function getclientfromurl() on a non-object in /home2/simplgm7/public_html/dev/administrator/application/views/default/includes/header.php on line 163
+[03-Oct-2015 00:14:16 America/Denver] PHP Fatal error:  Call to a member function getclientfromurl() on a non-object in /home2/simplgm7/public_html/dev/administrator/application/views/default/includes/header.php on line 163
+[03-Oct-2015 00:14:52 America/Denver] PHP Fatal error:  Call to a member function getclientfromurl() on a non-object in /home2/simplgm7/public_html/dev/administrator/application/views/default/includes/header.php on line 163
+[03-Oct-2015 00:16:44 America/Denver] PHP Fatal error:  Call to a member function getclientfromurl() on a non-object in /home2/simplgm7/public_html/dev/administrator/application/views/default/includes/header.php on line 156
+[03-Oct-2015 00:16:48 America/Denver] PHP Fatal error:  Call to a member function getclientfromurl() on a non-object in /home2/simplgm7/public_html/dev/administrator/application/views/default/includes/header.php on line 156
+[03-Oct-2015 00:18:02 America/Denver] PHP Fatal error:  Class 'Client_model' not found in /home2/simplgm7/public_html/dev/system/core/Loader.php on line 303
+[03-Oct-2015 00:18:06 America/Denver] PHP Fatal error:  Call to a member function getclientfromurl() on a non-object in /home2/simplgm7/public_html/dev/administrator/application/views/default/includes/header.php on line 156
+[03-Oct-2015 02:18:33 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/31915.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[03-Oct-2015 02:18:33 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/32015.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[03-Oct-2015 02:28:03 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/31915.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[03-Oct-2015 02:28:03 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/32015.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[03-Oct-2015 02:29:06 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/31915.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[03-Oct-2015 02:29:06 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/32015.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[03-Oct-2015 02:31:18 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/31915.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[03-Oct-2015 02:31:18 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/32015.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[03-Oct-2015 02:32:21 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/31915.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[03-Oct-2015 02:32:21 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/32015.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[03-Oct-2015 02:33:50 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/31915.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[03-Oct-2015 02:33:50 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/32015.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[03-Oct-2015 02:35:10 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/31915.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[03-Oct-2015 02:35:10 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/32015.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[03-Oct-2015 02:42:18 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/31915.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[03-Oct-2015 02:42:18 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/32015.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[03-Oct-2015 03:11:14 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/31915.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[03-Oct-2015 03:11:14 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/32015.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[03-Oct-2015 03:18:22 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/31915.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[03-Oct-2015 03:18:22 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/32015.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[07-Oct-2015 10:09:46 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/31915.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[07-Oct-2015 10:09:46 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/32015.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[07-Oct-2015 10:18:04 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/31915.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[07-Oct-2015 10:18:04 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/32015.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[07-Oct-2015 10:18:15 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/31915.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[07-Oct-2015 10:18:15 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/32015.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[07-Oct-2015 10:33:16 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/31915.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[07-Oct-2015 10:33:16 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/32015.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[07-Oct-2015 10:46:18 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/31915.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[07-Oct-2015 10:46:18 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/32015.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[07-Oct-2015 10:56:38 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/31915.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[07-Oct-2015 10:56:38 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/32015.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[07-Oct-2015 10:57:21 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/31915.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[07-Oct-2015 10:57:21 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/32015.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[07-Oct-2015 10:59:28 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/31915.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[07-Oct-2015 10:59:28 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/32015.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[08-Oct-2015 11:28:18 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/31915.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[08-Oct-2015 11:28:18 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/32015.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[11-Oct-2015 04:51:06 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/31915.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[11-Oct-2015 04:51:06 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/32015.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[11-Oct-2015 04:55:29 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/31915.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[11-Oct-2015 04:55:29 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/32015.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[11-Oct-2015 05:19:50 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/31915.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[11-Oct-2015 05:19:50 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/32015.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[11-Oct-2015 05:31:16 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/31915.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[11-Oct-2015 05:31:16 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/32015.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[11-Oct-2015 05:31:54 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/31915.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[11-Oct-2015 05:31:54 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/32015.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[12-Oct-2015 01:12:56 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/31915.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[12-Oct-2015 01:12:56 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/32015.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[13-Oct-2015 08:35:23 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/31915.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[13-Oct-2015 08:35:23 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/32015.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[13-Oct-2015 08:35:30 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/31915.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[13-Oct-2015 08:35:30 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/32015.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[17-Oct-2015 11:16:15 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/31915.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[17-Oct-2015 11:16:15 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/32015.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[17-Oct-2015 12:19:43 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/31915.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[17-Oct-2015 12:19:43 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/32015.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[17-Oct-2015 12:25:11 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/31915.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[17-Oct-2015 12:25:11 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/32015.jpg' -resize '100' -size '100x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w100_h100_cp_sc.jpg', return code: 1, output: Array
+(
+)
+
+[24-Oct-2015 04:54:29 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/marketplace' -resize '180' -size '180x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w180_h100_cp_sc.', return code: 1, output: Array
+(
+)
+
+[25-Oct-2015 10:40:58 America/Denver] PHP Fatal error:  Call to undefined method Consultant::get_consultant_executive_detail() in /home2/simplgm7/public_html/dev/administrator/application/views/default/consultant_manage.php on line 130
+[31-Oct-2015 14:03:52 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/marketplace' -resize '180' -size '180x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w180_h100_cp_sc.', return code: 1, output: Array
+(
+)
+
+[31-Oct-2015 14:06:49 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/marketplace' -resize '180' -size '180x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w180_h100_cp_sc.', return code: 1, output: Array
+(
+)
+
+[31-Oct-2015 14:11:31 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/marketplace' -resize '180' -size '180x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w180_h100_cp_sc.', return code: 1, output: Array
+(
+)
+
+[31-Oct-2015 14:12:01 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/marketplace' -resize '180' -size '180x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w180_h100_cp_sc.', return code: 1, output: Array
+(
+)
+
+[31-Oct-2015 14:12:01 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/marketplace' -resize '180' -size '180x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w180_h100_cp_sc.', return code: 1, output: Array
+(
+)
+
+[31-Oct-2015 14:12:07 America/Denver] Tried to execute : convert '/home2/simplgm7/public_html/cache/remote/marketplace' -resize '180' -size '180x100' xc:'transparent' +swap -gravity center -composite -quality '90' '/home2/simplgm7/public_html/cache/d41d8cd98f00b204e9800998ecf8427e_w180_h100_cp_sc.', return code: 1, output: Array
+(
+)
+

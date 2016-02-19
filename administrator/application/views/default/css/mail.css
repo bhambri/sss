@@ -1,0 +1,20 @@
+.info
+{
+	background: url("../images/info.gif") left no-repeat;
+	background-color: #D4F5D4;
+	background-position: 14px center;
+	padding: 3px 3px 3px 42px;
+	border: 1px dotted #54AF54;	
+	margin: 5px;
+	width: 70%;
+	text-align: left;
+	font-family: arial;
+	font-size: 11px;
+	font-weight:bold;
+}
+body{
+	margin:0;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	
+}

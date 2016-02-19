@@ -1,0 +1,5 @@
+StoreName	SKU	CategoryName	SubcategoryName	ProductName	ProductPrice	WholeSalePrice	HostPrice	DiscountPrice	Description	Status	Image
+glenn	abcd	Women	Formal Shirt	P 1	12	34	23	45	This is test product 1	1	/uploads/products/111.jpeg
+glenn	1234	Men	Sports Shoes	P 2	45	45	34	56	This is test product 2	1	/uploads/products/222.jpg
+glenn	defg	cat 3	sub cat 3	P 3	1233	4	45	67	This is test product 3	1	/uploads/products/333.jpeg
+glenn	5678	cat 4	sub cat 4	P 4	112	65	56	78	This is test product 4	1	/uploads/products/444.jpg

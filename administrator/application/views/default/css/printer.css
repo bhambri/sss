@@ -1,0 +1,113 @@
+/*
+File name: printer.css
+CSS document designed by Segnant
+Purpose: This file contain those classes which are required for printing pages without headers and footers
+Therefore, it is required to include only on the page where you want the printer friendly pages.
+*/
+
+/*===================================
+ PRINTER CLASSES 
+ ===================================*/
+#hide_it, #Layer1, .hide_it, .hide_it1
+{
+	display: none;
+	height: 0px;
+}
+
+
+@page {
+   writing-mode: tb-rl;
+   size: A4 lanscape;
+   margin: 0px;
+}
+TABLE {
+   writing-mode: tb-rl;
+   width: 100%;
+   margin: 0% 0%;
+   size:landscape;
+}
+
+*
+{
+	font-family: verdana;
+	font-size: 12px;
+	color: #000000;
+	font-weight: normal;
+}
+body
+{
+	font-family: verdana;
+	font-size: 12px;
+	color: #000000;
+	font-weight: normal;
+	margin: 0px;
+}
+
+:link, :active, :visited
+{
+	font-family: arial;
+	font-size: 11px;
+	color: #000000;
+	font-weight: normal;
+	text-decoration:underline;
+}
+
+#pageTitle
+{
+	font-size: 20px;
+	font-weight: bold;
+	font-family:Tahoma;
+}
+
+.form_header
+{
+	height: 30px;
+	width: 50%;
+}
+
+
+.form_header span
+{
+	color: #000000;
+	font-family: Tahoma;
+	font-size: 12px;
+	font-weight: bold;
+	padding: 0px 5px 0px 5px;
+}
+
+.input_table
+{
+	border: 1px double #999999;
+}
+
+.input_form_caption_td
+{
+	text-align: right;
+}
+.listing_table
+{
+	width: auto;
+}
+
+.listing_table td
+{
+	width: auto;
+	border: 1px solid #CCCCCC;
+	padding: 2px;
+}
+
+.form_base_header
+{
+	display: none;
+}
+
+
+#listpage_button_bar
+{
+	display: none;
+}
+.foooter_button_bar
+{
+	display: none;
+}
+

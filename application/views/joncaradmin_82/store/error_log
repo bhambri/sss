@@ -1,0 +1,3 @@
+[13-Nov-2015 11:45:42 America/Denver] PHP Fatal error:  Call to undefined function base_url() in /home2/simplgm7/public_html/dev/application/views/joncaradmin_82/store/address_shipping.php on line 15
+[16-Nov-2015 09:44:42 America/Denver] PHP Fatal error:  Call to undefined function base_url() in /home2/simplgm7/public_html/dev/application/views/joncaradmin_82/store/cuser_reset_password.php on line 6
+[19-Nov-2015 04:24:40 America/Denver] PHP Fatal error:  Call to undefined function base_url() in /home2/simplgm7/public_html/dev/application/views/joncaradmin_82/store/user_claccount.php on line 7

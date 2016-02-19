@@ -1,0 +1,138 @@
+ <?php 
+    error_reporting(0);
+ ?>
+ <!--banner-->
+<div class="inner-banner">
+    <div class="inner-banner-main">
+     <h2>Contact Us</h2>
+     </div>         
+      <div class="breadcrumb">
+         <?php 
+          foreach($breadcrumbdata as $key => $value) {
+            ?>
+            <a href="<?php echo $value ;?>"><?php echo $key ; ?></a>
+         <?php } ?>
+      </div>
+</div>
+ <!--banner-->
+ <div class="con">
+    <div class="con-inner">
+        <div class="inner-txt">
+            <div class="contact-details">
+            <div class="left">
+            <h2>Questions/Comments:</h2>
+        
+            <p>Get in touch with us in a moment. 
+You can find our location on the map, phone number to communicate with 
+our members and email address to ask your questions.</p>
+        <?php if(strlen(validation_errors())) { ?>
+        <div class="error-box" style="width:100%;">
+          <ul>
+            <?php echo validation_errors("<li>","</li>"); ?>
+          </ul>
+        </div>
+        <?php } ?>  
+        <?php if($this->session->flashdata('success')) : ?>
+       <!-- <div class="sucess-box" style="width:100%;"><ul><li><?php echo $this->session->flashdata('success'); ?></li></ul></div> -->
+       <?php endif; ?> 
+      <div class="form">
+      <?php //echo form_open('',array('id'=>'formAddPage','name'=>'formAddPage', 'onsubmit'=>'return yav.performCheck(\'formAddPage\', rules, \'inline\');'));?>  
+      <?php echo form_open('',array('id'=>'formAddPage','name'=>'formAddPage'));?>  
+      <div class="fld">
+          Name<span class="star">*</span> 
+        <input type="text" name="name" id="name" maxlength="50" value="<?php echo set_value('name', $name ) ; ?>" class="inp"/>
+        <span class="error" id="errorsDiv_name"></span>
+      </div> 
+      <div class="fld">
+          Email<span class="star">*</span> 
+        <input type="text" name="email" id="email" value="<?php echo set_value('email', $email ) ; ?>" class="inp"/>
+        <span class="error" id="errorsDiv_email"></span>
+      </div> 
+      
+      <div class="fld">
+          Phone Number<span class="star">*</span> 
+        <input type="text" name="phone" id="phone" value="<?php echo set_value('phone', $phone ) ; ?>" class="inp"/>
+        <span class="error" id="errorsDiv_phone"></span>
+      </div> 
+      
+      
+      <div class="fld">
+      Subjects<span class="star">*</span> 
+        <input type="text" name="subject" id="subject" value="<?php echo set_value('subject', $subject ) ; ?>" class="inp"/>
+        <span class="error" id="errorsDiv_subject"></span>
+      </div> 
+      
+      
+      <div class="fld">
+      Comments<span class="star">*</span> 
+        <textarea class="text" id="comments" name="comments" value="<?php echo set_value('comments', $comments ) ; ?>"></textarea>
+        <span class="error" id="errorsDiv_comments"></span>
+      </div> 
+      
+      <div class="fld">
+        <input type="hidden" name="formSubmitted" value="1" class="button" />
+        <input type="submit" value="Submit" class="btn"/>
+         <div class="fld-mandatory">* mark fields are mandatory </div>
+      </div>
+      <?php echo form_close() ; ?>
+      
+      
+     </div>
+      
+      </div><!--left-->
+      
+      <div class="right">
+            <div class="address">
+              <h2>Address:</h2>
+              <p><strong>Headquarter Address:</strong> <?php echo $company; ?><br/><?php echo $address; ?><br/><?php echo $city; ?>, <?php echo $state_code; ?> <?php echo $zip; ?><br/><br/><strong>Phone:</strong> <?php if(!$consultant_phone && !$consultant_email){ echo $phone1; } ?><br/><strong>Fax:</strong> <?php echo $fax; ?><br/><br/>For questions regarding product sales,<br/>
+              <?php if($sale_support_email){?>
+              <a href="mailto:<?php echo $sale_support_email; ?>"><?php echo $sale_support_email; ?></a><br/>
+              <?php } ?>
+              <br/>For questions regarding partnership opportunities with us<br/>
+              <?php if($partner_support_email){ ?>
+              <a href="mailto:<?php echo $partner_support_email; ?>"><?php echo $partner_support_email; ?></a><br/>
+              <?php } ?>
+              <br/>For questions regarding technical support issues,<br/>
+              <?php if($technical_support_email){ ?>
+              <a href="mailto:<?php echo $technical_support_email; ?>"><?php echo $technical_support_email; ?></a>
+              <?php } ?>
+              </p>                
+              <p>
+              <?php if($consultant_phone && $consultant_email){ ?>
+              <strong>You can also write us at:</strong>
+              <br/>
+              <?php echo $consultant_email ; ?> <br/>
+              Phone: - <?php echo $consultant_phone ; ?>
+              <?php } ?>
+              </p>
+              <div class="map">
+              <script src="http://maps.google.com/maps/api/js?sensor=false" type="text/javascript"></script> 
+              <div id="map" style="width: 100%; height: 300px;" > 
+              </div>
+              <script type="text/javascript">
+              var address = '<?php echo $city.", ".$state_code; ?>';
+              var map = new google.maps.Map(document.getElementById('map'), { 
+                 mapTypeId: google.maps.MapTypeId.TERRAIN,
+                 zoom: 50
+              });
+              var geocoder = new google.maps.Geocoder();
+              geocoder.geocode({
+                'address': address
+              }, 
+              function(results, status) {
+                if(status == google.maps.GeocoderStatus.OK) {
+                   new google.maps.Marker({
+                      position: results[0].geometry.location,
+                      map: map
+                   });
+                   map.setCenter(results[0].geometry.location);
+                }
+              });
+              </script> 
+             </div>  
+         </div>  
+      </div>
+     </div><!--contact details-->
+    </div>     
+  </div>
+</div><!--con-->

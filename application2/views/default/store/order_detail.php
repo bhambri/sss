@@ -1,0 +1,167 @@
+<?php 
+
+$segs =  $this->uri->segments ;
+//pr($segs);
+$store_user= $segs[1] ;
+ ?>
+ 	 <!--banner-->
+  <div class="inner-banner">
+    <div class="inner-banner-main">
+     <h2>My orders</h2>
+  	</div>
+  	 <div class="breadcrumb"><a href="<?php echo base_url().$this->uri->segment(1).'/home'?>">Home </a> / My orders</div> 	  
+  </div>
+ 	  <!--banner-->
+ 	  <div class="con">
+        <div class="con-inner">
+            <div class="inner-txt">
+               <div class="accountpage">
+                  <div class="spacer-top"></div>
+                      <div class="heading">
+                    	Order Detail
+                    	</div>
+                      <?php if($order ){  ?>
+                    	 <table width="100%" cellpadding="0" cellspacing="0" class="accounttable">
+                    	 
+                       <tr>
+                          <td nowrap="nowrap" class="input_form_caption_td" width="40%">Store name: </td>
+                          <td width="60%"><?php echo $order->store_name;?> </td>
+                        </tr>
+                        <tr>
+                          <td nowrap="nowrap" class="input_form_caption_td" width="40%">Transaction id: </td>
+                          <td width="60%"><?php echo $order->transaction_id;?> </td>
+                        </tr>
+                        <tr>
+                          <td nowrap="nowrap" class="input_form_caption_td" width="40%">Order amount: </td>
+                          <td width="60%">$<?php echo $order->order_amount;?> </td>
+                        </tr>
+                        <tr>
+                        <?php 
+                          $order_status = '';
+                          if($order->order_status == 1){ 
+                             $order_status = 'Paid';
+                          }else if($order->order_status == 2){ 
+                            $order_status = 'shipped';
+                          }else if($order->order_status == 3){ 
+                            $order_status = 'completed';
+                          }else if($order->order_status == 4){ 
+                            $order_status = 'cancelled /Refunded';
+                          }else{
+                            $order_status == '' ;
+                          }
+                          #echo $order->order_status ; 
+                          ?>
+                          <td>Order Status :</td><td><?php echo $order_status ;?></td>
+                        </tr>
+                        <tr>
+                          <td>Order Date :</td><td><?php echo date('Y-m-d', strtotime($order->created_time)) ;?></td>
+                        </tr>
+                        <tr>
+                          <td>Tax :</td><td>$<?php echo $order->tax;?></td>
+                        </tr>
+                        <tr>
+                          <td>Shipping :</td><td>$<?php echo $order->shipping;?></td>
+                        </tr>
+                        <tr>
+                          <td>Grand Total :</td><td>$ <?php echo $order->order_amount+$order->tax+$order->shipping ;?></td>
+                        </tr>
+			<tr>
+                          <td>Order Comment :</td><td><?php if($order->order_comment){ echo $order->order_comment ;} ?></td>
+                        </tr>
+                      </table>
+                       <div class="heading">
+                        Order Item
+                        </div>
+                       <table class="accounttable" width="100%" >
+                         <tr><th>Item</th><th>Quantity</th><th>Total</th><th> Size</th></tr>
+                         <?php foreach ($order_detail as $key => $value) {
+                           # code...
+                         ?>
+                         <tr><td><?php echo $value->product_title; ?></td><td><?php echo $value->product_quantity; ?></td><td><?php echo $value->product_quantity; ?>X<?php echo $value->product_sale_price ; ?></td><td>
+                           <?php echo $value->szp; ?>
+                         </td></tr>
+                         <tr><td>Specifications: </td><td colspan="3"><?php echo $value->product_specification; ?></td></tr>
+                         <?php } ?>
+                       </table>
+                       <!-- new part starts here -->
+                       <div class="billing-info">
+                      <div class="billing-address">
+                         <h2>Billing Address</h2>
+                          
+                          <table width="100%" cellspacing="0" cellpadding="0">
+                             <tbody><tr>
+                               <td><strong>First Name:</strong></td> <td><?php echo $billing_data['first_name'] ; ?></td>     
+                              </tr>
+                                <tr>                           
+                               <td><strong>Last Name:</strong></td> <td><?php echo $billing_data['first_name'] ; ?></td>
+                               </tr>
+                               <tr>
+                               <tr>
+                                   <td><strong>Email:</strong></td> <td><?php echo $billing_data['email'] ; ?></td>
+                                </tr>
+                               <td><strong>Address:</strong></td>  <td><?php echo $billing_data['address'] ; ?></td>
+                                 </tr>
+                                 <tr>
+                                 <td><strong>Address, Line 2:</strong></td>  <td><?php echo $billing_data['address_2'] ; ?></td>
+                                  </tr>
+                                 <tr> 
+                                  <td><strong>City:</strong></td> <td><?php echo $billing_data['city'] ; ?></td>  
+                                  </tr>
+                                  
+                                  <tr> 
+                                    <td><strong>State:</strong></td> <td><?php echo $billing_data['state_code'] ; ?></td>
+                                  </tr>
+                                 <tr>   
+                                     <td><strong>Postal Code:</strong></td> <td><?php echo $billing_data['postal_code'] ; ?></td>      
+                                  </tr>
+                                 <tr> 
+                                      <td><strong>Phone no:</strong></td> <td><?php echo $billing_data['phone_number'] ; ?></td>  
+                             </tr>
+                          </tbody></table>
+                      </div>
+
+    <div class="shipping-address">
+                         <h2>Shipping Address</h2>
+                          <table width="100%" cellspacing="0" cellpadding="0">
+                             <tbody><tr>
+                               <td><strong>First Name:</strong></td> <td><?php echo $shipping_data['first_name'] ; ?></td>     
+                              </tr>
+                                <tr>                           
+                               <td><strong>Last Name:</strong></td> <td><?php echo $shipping_data['first_name'] ; ?></td>
+                               </tr>
+                               <tr>
+                               <tr>
+                                   <td><strong>Email:</strong></td> <td><?php echo $shipping_data['email'] ; ?></td>
+                                </tr>
+                               <td><strong>Address:</strong></td>  <td><?php echo $shipping_data['address'] ; ?></td>
+                                 </tr>
+                                 <tr>
+                                 <td><strong>Address, Line 2:</strong></td>  <td><?php echo $shipping_data['address_2'] ; ?></td>
+                                  </tr>
+                                 <tr> 
+                                  <td><strong>City:</strong></td> <td><?php echo $shipping_data['city'] ; ?></td>  
+                                  </tr>
+                                  
+                                  <tr> 
+                                    <td><strong>State:</strong></td> <td><?php echo $shipping_data['state_code'] ; ?></td>
+                                  </tr>
+                                 <tr>   
+                                     <td><strong>Postal Code:</strong></td> <td><?php echo $shipping_data['postal_code'] ; ?></td>      
+                                  </tr>
+                                 <tr> 
+                                      <td><strong>Phone no:</strong></td> <td><?php echo $shipping_data['phone_number'] ; ?></td>  
+                             </tr>
+                          </tbody></table>
+                      </div>
+
+
+                   </div>
+                   <!-- -new parts ends here ->
+                      <!-- <div class="pagination"><?php echo $pagination;?></div> -->
+                      <?php }else{ ?>
+                      <div> No orders there </div>
+                      <?php } ?>	
+                </div>
+            </div>     
+    	</div>
+    </div><!--con-->

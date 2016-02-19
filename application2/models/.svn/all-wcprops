@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/online_market_place/!svn/ver/484/application/models
+END
+content_model.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/online_market_place/!svn/ver/480/application/models/content_model.php
+END
+contact_model.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/online_market_place/!svn/ver/480/application/models/contact_model.php
+END
+order_model.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/online_market_place/!svn/ver/480/application/models/order_model.php
+END
+news_model.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/online_market_place/!svn/ver/480/application/models/news_model.php
+END
+client_model.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/online_market_place/!svn/ver/480/application/models/client_model.php
+END
+user_model.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/online_market_place/!svn/ver/483/application/models/user_model.php
+END
+product_model.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/online_market_place/!svn/ver/484/application/models/product_model.php
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/online_market_place/!svn/ver/11/application/models/index.html
+END
+address_model.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/online_market_place/!svn/ver/486/application/models/address_model.php
+END
+grouppurchase_model.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/online_market_place/!svn/ver/480/application/models/grouppurchase_model.php
+END
+area_model.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/online_market_place/!svn/ver/480/application/models/area_model.php
+END
+common_model.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/online_market_place/!svn/ver/484/application/models/common_model.php
+END

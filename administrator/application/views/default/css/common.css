@@ -1,0 +1,203 @@
+/**************************************************
+* Version 1.0
+* Author Vince Balrai
+* Company Segnant Technologies
+* Department PHP
+* Purpose Common CSS file containing common styles
+***************************************************/
+
+/*
+-------------------------------
+CLASSES FOR ERRORS
+-------------------------------
+*/
+
+.error_ul{
+	border:1px solid #6F0000;
+	margin:0px 0px 5px 0px;
+	padding:10px 5px 10px 5px;
+	list-style:none;
+	color:#8A0000!important;
+	background-color:#FFF0F0;
+}
+.success_ul{
+	border:1px solid #006F00;
+	margin:0px 0px 5px 0px;
+	padding:10px 5px 10px 5px;
+	list-style:none;
+	color:#006D00;
+	background-color:#F0FFF0;
+}
+.breadcrumb{
+	color:#AB0200;
+	font-size:11px;
+}
+
+.inputerror
+{
+	padding: 1px;
+	font-family:tahoma;
+	font-size: 11px;
+	border: 1px solid #FABCBC; 
+	border-width:1px;
+	font-family:Verdana;
+	font-size: 12px;
+	background-color: #FFFBFB;
+}
+#imagepreview{
+	position:absolute;
+	border:1px solid #ccc;
+	background:#333;
+	padding:5px;
+	display:none;
+	color:#fff;
+}
+.inbox1
+{
+background-color:#FFFFFF !important;
+}
+.inbox2
+{
+background-color:#F9F6F1 !important;
+}
+
+.pagging{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	font-weight:bold;
+	color:#fffdf7;
+	background-color:#542471;
+	padding:3px 5px 3px 5px;
+}
+
+.pagging2{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-decoration:none;
+	font-weight:bold;
+	color:#542471;
+}
+
+
+
+/*6-oct-14*/
+
+
+	.account-info-back{width: 98%; padding:1%; float:left; }
+	
+	.account-info-back .heading {
+    background: none repeat scroll 0 0 #f5f5f5;
+    float: left;
+    font-weight: bold;
+    margin-bottom: 10px;
+    padding: 10px 1%;
+    width: 100%;
+    }
+    
+   .account-info-back .details {
+    color: #505050;
+    float:right;
+    font-size: 15px;
+    margin-top: 0;
+    width:58%;
+    line-height: 22px;
+}
+
+.account-info-back .details .details-one {
+    float: left;
+    line-height: 22px;
+    margin-right: 5%;
+    padding-left: 10px;
+}
+.account-info-back .details .details-two {
+    float: right;
+    line-height: 22px;
+    padding-right: 10px;
+}
+    
+    
+.form-back{float:left; width:37%;} 
+.form-back .fld{float: left; width: 100%; margin-bottom: 20px;}
+.form-back h2{float: left; width: 100%; font-weight:bold; margin: 0 0 20px 0; padding:0; font-size: 13px;}
+
+.form-back .fld .sel{
+ border: 1px solid #e0e0e0;
+    box-shadow: 0 0 3px #d2d2d2;
+    color: #151515;
+    margin-top: 5px;
+   
+   
+    padding: 12px 10px;
+    position: relative;
+    width:100%;
+}
+
+
+
+.table-back{float: left; width: 100%; margin-top:20px; line-height: 22px; border:1px solid #ddd;}
+
+.table-back th{text-align: left;}
+.table-back td{text-align: left;}
+.table-back th {font-weight:bold; background: #f5f5f5; padding: 10px 1%;}
+.table-back td{padding: 10px 1%; border-top:1px solid #ddd;}
+
+.table-back td .img-back{float: left; margin-right: 7px;}
+.table-back td  a{color:#e54b5d; text-decoration: none;}
+
+.table-back .left-fld{float: left; width: 15%;}
+.table-back .right-fld{float:right; width: 38%;}
+
+
+.table-back .left-fld .sel{border: 1px solid #e0e0e0;
+    box-shadow: 0 0 3px #d2d2d2;
+    color: #151515;
+     font-size: 14px;
+    padding: 8px 10px;
+    position: relative;
+    width:100%;
+    float: left;
+    margin-right: 10px;}
+
+.table-back .right-fld  .inp{border: 1px solid #e0e0e0;
+    box-shadow: 0 0 3px #d2d2d2;
+    color: #151515;
+     font-size: 14px;
+    padding: 8px 10px;
+    position: relative;
+    width:55%;
+    float: left;
+    margin-right: 10px;}
+
+.table-back .right-fld .btn {
+    background: none repeat scroll 0 0 #e54b5d;
+    border: 0 none;
+    color: #fff;
+    float:left;
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    padding: 8px 2%;
+    margin-right: 10px;
+}
+
+.account-info-back h3{float: left; width: 100%; padding:0; margin:0 0 0 0; font-size:18px; }
+
+
+
+.table-back-total{float: right; width: 40%; margin-top:20px; line-height: 22px; border:1px solid #ddd;}
+
+.table-back-total th {text-align: left;}
+.table-back-total td{text-align: left;}
+.table-back-total th {font-weight:bold; background: #f5f5f5; padding: 10px 1%;}
+.table-back-total td{padding: 10px 1%; border-top:1px solid #ddd;}
+
+.table-back-total td .img-back{float: left; margin-right: 7px;}
+.table-back-total td  a{color:#e54b5d; text-decoration: none;}
+
+
+.table-back-total .grand-total tr{}
+.table-back-total .grand-total td{background: #e6e6e6; font-weight:bold; color:#000; font-size: 18px;}
+.table-back-total .grand-total td.amount{color:red;}
+.table-back-total .grand-total td.amount a{font-size:13px; color:#000; float: right;}
+.table-back-total .grand-total td.amount a:hover{color:#5c5c5c;}
+.mceStatusbar #page_content_path_row{display: none;}

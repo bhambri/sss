@@ -1,0 +1,71 @@
+/* CSS Document */
+/*
+File name: login.css
+CSS document designed by Segnant
+Purpose: This file contain those classes which are required for login screen. 
+Therefore, it is required to include only on the login page nowhere else
+*/
+
+/*===================================
+ LOGIN FORM CLASSES 
+ ===================================*/
+ td
+ {
+ 	font-family: tahoma;
+	font-size: 12px;
+	color: #0E0E0E;
+ }
+.small
+{
+ 	font-family: tahoma;
+	font-size: 11px;
+	color: #0E0E0E;
+} 
+
+.btnlogin
+{
+	font-family: tahoma;
+	font-size: 11px;
+	padding: 2px 6px 2px 6px;
+	line-height: 140%;
+	color: #666666;
+	background-color: #E9ECEF;
+	border: 1px solid #9E9E9E;
+}
+
+.inputbox
+{
+	font-family: tahoma;
+	font-size: 11px;
+	color: #0E0E0E;
+	border-color: #CFCECE;
+	border-width: 1px;
+	border-style: solid;
+	background-color: #FFFFFF;
+}
+
+#login_form_td
+{
+	height: 500px;
+	vertical-align: middle;
+}
+
+#id_table_login_form
+{
+	border-color: #CCCCCC; 
+	border-style: solid; 
+	border-width: 1px;
+	background-color: #F4F4F4;
+	height: 229px;
+	width: 430px;
+}
+
+#id_table_form_inner
+{
+	border-color: #CCCCCC; 
+	border-style: solid; 
+	border-width: 1px;
+	background-color: #E9ECEF;
+	width: 239px;
+	height: 141px;
+}
