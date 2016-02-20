@@ -64,6 +64,9 @@
 							<a href="<?php echo base_url() . "coupons/manage_coupons"; ?>" class="jarvismetro-tile big-cubes bg-color-greenLight"> <span class="iconbox"> <i class="fa fa-cube fa-4x"></i> <span>Coupons</span> </a>
 						</li>
 						<li>
+							<a href="<?php echo base_url() . "product/browse"; ?>" class="jarvismetro-tile big-cubes bg-color-greenLight"> <span class="iconbox"> <i class="fa fa-cube fa-4x"></i> <span>Products</span> </a>
+						</li>
+						<li>
 							<a href="<?php echo base_url() . "order/manage"; ?>" class="jarvismetro-tile big-cubes bg-color-blue"> <span class="iconbox"> <i class="fa fa-book fa-4x"></i> <span>Order</span> </a>
 						</li>
 						<li>

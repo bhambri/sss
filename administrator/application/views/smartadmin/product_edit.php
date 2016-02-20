@@ -179,6 +179,30 @@ $(document).ready(function() {
 						</label>
 					</section>
 					<section>
+						<label class="label">Product Type:</label>
+						<div class="inline-group">
+							<label class="radio">
+								<input type="radio" name="type_consultant" value="1" <?php echo set_value('type_consultant', $client_product->type_consultant) == 1 ? "checked" : ""; ?> />
+								<i></i>Consultant</label>
+							<label class="radio">
+								<input type="radio" name="type_consultant" value="0" <?php echo set_value('type_consultant', $client_product->type_consultant) == 0 ? "checked" : ""; ?> />
+								<i></i>Normal</label>
+							
+						</div>
+					</section>
+					<section>
+						<label class="label">Product Payment Type:</label>
+						<div class="inline-group">
+							<label class="radio">
+								<input type="radio" name="payment_recurring" value="1" <?php echo set_value('payment_recurring', $client_product->payment_recurring) == 1 ? "checked" : ""; ?> />
+								<i></i>Recurring</label>
+							<label class="radio">
+								<input type="radio" name="payment_recurring" value="0" <?php echo set_value('payment_recurring', $client_product->payment_recurring) == 0 ? "checked" : ""; ?> />
+								<i></i>One Time</label>
+							
+						</div>
+					</section>
+					<section>
 						<label class="label">Upload Product Image:<span class="mandatory">&nbsp;*</span></label>
 						<label class="input">
 							<input type='hidden' name='MAX_FILE_SIZE' value='10000000' />
